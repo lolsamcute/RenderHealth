@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00_Desktop_1.1_Homepage-Menu-Dropdown" transform="translate(-862.000000, -64.000000)" fill="#01BBAE" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(838.000000, 46.000000)">
+                <path d="M33,18 C28.032,18 24,22.032 24,27 C24,29.952 25.44,32.544 27.6,34.2 L27.6,34.2 C29.112,35.352 30.984,36 33,36 C35.016,36 36.888,35.352 38.4,34.2 L38.4,34.2 C38.616,33.984 38.904,33.84 39.12,33.624 L39.12,33.624 C40.92,31.968 42,29.664 42,27 C42,22.032 37.968,18 33,18 Z M33,21.6 C34.368,21.6 35.52,22.752 35.52,24.12 C35.52,25.488 34.368,26.64 33,26.64 C31.632,26.64 30.48,25.488 30.48,24.12 C30.48,22.752 31.632,21.6 33,21.6 Z M33,35.28 C30.984,35.28 29.112,34.56 27.672,33.336 C28.104,30.744 30.336,28.8 33,28.8 C35.664,28.8 37.896,30.744 38.328,33.336 C36.888,34.56 35.016,35.28 33,35.28 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

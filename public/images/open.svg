@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-Desktop_Hospital-Appointment-1" transform="translate(-1168.000000, -168.000000)" fill="#01BBAE">
+            <g id="List-1" transform="translate(504.000000, 154.000000)">
+                <path d="M674.5,14 C668.704,14 664,18.704 664,24.5 C664,30.296 668.704,35 674.5,35 C680.296,35 685,30.296 685,24.5 C685,18.704 680.296,14 674.5,14 Z M677.86,24.92 L674.92,24.92 L674.92,27.86 C674.92,28.112 674.752,28.28 674.5,28.28 C674.248,28.28 674.08,28.112 674.08,27.86 L674.08,24.92 L671.14,24.92 C670.888,24.92 670.72,24.752 670.72,24.5 C670.72,24.248 670.888,24.08 671.14,24.08 L674.08,24.08 L674.08,21.14 C674.08,20.888 674.248,20.72 674.5,20.72 C674.752,20.72 674.92,20.888 674.92,21.14 L674.92,24.08 L677.86,24.08 C678.112,24.08 678.28,24.248 678.28,24.5 C678.28,24.752 678.112,24.92 677.86,24.92 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/Profile" transform="translate(-7.000000, -7.000000)" fill="#353638" fill-rule="nonzero">
+            <path d="M17.5,7 C11.704,7 7,11.704 7,17.5 C7,20.944 8.68,23.968 11.2,25.9 L11.2,25.9 C12.964,27.244 15.148,28 17.5,28 C19.852,28 22.036,27.244 23.8,25.9 L23.8,25.9 C24.052,25.648 24.388,25.48 24.64,25.228 L24.64,25.228 C26.74,23.296 28,20.608 28,17.5 C28,11.704 23.296,7 17.5,7 Z M17.5,11.2 C19.096,11.2 20.44,12.544 20.44,14.14 C20.44,15.736 19.096,17.08 17.5,17.08 C15.904,17.08 14.56,15.736 14.56,14.14 C14.56,12.544 15.904,11.2 17.5,11.2 Z M17.5,27.16 C15.148,27.16 12.964,26.32 11.284,24.892 C11.788,21.868 14.392,19.6 17.5,19.6 C20.608,19.6 23.212,21.868 23.716,24.892 C22.036,26.32 19.852,27.16 17.5,27.16 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
