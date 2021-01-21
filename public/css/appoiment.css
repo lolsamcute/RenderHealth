@@ -1,0 +1,494 @@
+.search-box{position: relative}
+.search-box .search-icon{position: absolute; top:50%; left: 2%; transform: translateY(-50%) rotate(259deg); font-size: 20px;}
+.search-box input#hospital_appointment::placeholder {font-weight: 700;font-size: 19px;}
+.search-box input{ border-radius: 9px;
+    background: #e3e8e8; padding: 14px 13px 11px 40px;}
+.text-title{color:#7d7d7d; font-weight: 600;}
+.Hospital_appointment #appointment_details p{
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+    margin:0px;
+}
+.search-box .microphone-set{
+    position: absolute;
+    top: 50%;
+    right: 2%;
+    transform: translateY(-50%);
+    font-size: 27px;
+    color: #8e8e93;
+}
+.Hospital_appointment #appointment_details.form-group{
+    margin-bottom: 0px;
+}
+.Hospital_appointment .form-control-static{
+    color:#8a8a8a;
+}
+.Hospital_appointment .widget_profile {
+    border-radius: 10px;
+}
+.round-set{
+    position: relative;
+    padding-right: 26px;
+}
+.round-set i{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0%;
+    font-size: 33px;
+    color: #c8c8c8;
+}
+.Hospital_appointment .no_data{
+    display: block;
+    padding: 25px 35px 0px 35px;
+    height: 100%;
+    min-height: 100%;
+    max-height: 100%;
+}
+.Hospital_appointment .widget_body{
+    padding-bottom: 25px;
+}
+.Hospital_appointment .no_data .information-doctor{
+    border: 1px solid #eaeaea;
+    border-radius: 6px;
+    padding-bottom: 30px;
+}
+.docter-set p, .languages-list p{
+    margin-bottom: 0;
+}
+.Hospital_appointment .no_data .information-doctor .set-pad{
+    padding: 20px 30px 0px 30px;
+}
+.docter-set p:nth-child(1){
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+    margin: 0px;
+    text-transform: capitalize;
+}
+.Hospital_appointment .widget_profile {
+    padding: 11px 24px;
+}
+
+
+.docter-set p:nth-child(2){
+    font-weight: 600;
+    font-size: 20px;
+    color: #1fbaad;
+}
+.languages-list p:nth-child(1){
+    font-weight: 700;
+    color: #9b9b9b;
+    font-size: 20px;
+    margin-top: -5px;
+}
+.languages-list p:nth-child(2){
+    font-weight: 700;
+    color: #000;
+}
+.mention-year{
+    padding: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+.mention-year p{
+    margin-bottom: 0;
+    color: #1fbaad;
+    font-size: 18px;
+    font-weight: 600;
+}
+.mention-year img{
+    width: 40px;
+    padding-right: 15px;
+}
+.Hospital_appointment .cantant-p{
+    font-size: 18px;
+    color: #7b7b7b;
+    font-weight: 600;
+}
+.doctor-hr{
+    margin: 5px 0px 20px 0px;
+}
+.pad-set-2{
+    padding: 0px 30px;
+}
+.round-set-icon{
+    display: block;
+    width: 20px;
+    height: 20px;
+    background:red;
+    border-radius: 50px;;
+}
+.not-availabal{
+    display: flex;
+    align-items: center;
+}
+.not-availabal p{
+    padding-left: 15px;
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: 600;
+}
+.availabal .round-set-icon{
+    background-color: #9fd96a;
+}
+.set-available{
+    display: flex;
+    align-items: center;
+}
+.availabal{
+    padding-left: 71px;
+}
+.time-button p{
+    margin: 0;
+    display: inline-block;
+    padding: 11px 7px 8px 0px;
+    color: #93c567;
+    font-weight: 700;
+}
+.time-button{
+    border-radius: 5px;
+    background: #f5feec;
+    display: block;
+    width: 123px;
+    text-align: center;
+    border: 1px solid #9fd96a;
+}
+.color-red{
+    margin-left: 15px;
+    border: 1px solid red;
+    background: #fff3f3; 
+}
+.color-red p{
+    color: #8b4648;
+}
+.color-blue{ 
+    margin-left: 15px;
+    border: 1px solid #389993;
+    background: #389993;   
+}
+.color-blue p{
+    color: #fff;
+}
+.time-set{
+    display: flex;
+}
+.color-blace{
+    margin-left: 15px;
+}
+.time-set{
+    margin-top: 20px;
+}
+.btn-doctor a{
+    color: #fff;
+    text-decoration: none;
+    background-color:#1ebaac ;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    border-radius: 5px;;
+}
+.btn-doctor{
+    margin: 25px 0px 0px 0px;
+}
+.docter-set .media-body{
+    padding-left: 15px;
+}
+.docter-set .media img{
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+    background-size: cover;
+}
+.information-doctor{
+    /* box-shadow: 0px 0px 14px 3px rgba(0,0,0, 0.1);
+    -webkit-box-shadow: 0px 0px 14px 3px rgba(0,0,0, 0.1);
+    -ms-box-shadow: 0px 0px 14px 3px rgba(0,0,0, 0.1);
+    -moz-box-shadow: 0px 0px 14px 3px rgba(0,0,0, 0.1);
+    -o-box-shadow: 0px 0px 14px 3px rgba(0,0,0, 0.1); */
+}
+/* modal */
+.doctor-modal.modal-dialog {
+    max-width: 800px;
+}
+.doctor-modal .modal-header{
+    background: #379a93;
+}
+.doctor-modal .header-text{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    color: #fff;
+}
+.doctor-modal .header-text a{
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+}
+.doctor-modal .header-text p{
+    font-size: 20px;
+    margin: 0;
+    font-weight: 600;
+}
+.doctor-modal .modal-content{
+    border-radius: 8px;
+}
+.detail-pation .media-body p{
+    margin-bottom: 0;
+}
+.detail-pation .media-body .text-media{
+    font-size: 22px;
+    font-weight: 600;
+}
+.text-media-1{
+    color:#828282;
+    font-weight: 600;
+}
+.detail-pation .media .patient-img{
+    width: 106px;
+}
+.detail-pation .media-body{
+    padding-left: 30px;
+}
+.patient-address{
+    padding: 0;
+    display: flex;
+    margin-top: 15px;
+}
+.patient-address li{
+    display: inline-block;
+    color:#828282;
+    font-weight: 600;
+}
+.patient-address li img{
+    margin-right: 25px;
+    width: 15px;
+}
+.brithday img{
+    width: 20px !important;
+}
+.appoiment-date .appoiment-banner{
+    line-height:27px;
+    font-weight: 800;
+    display: inline-block;
+    background: #1ebaae;
+    text-align: center;
+    color: #fff;
+    font-size: 28px;
+    border-radius: 8px;
+    padding: 11px 20px 11px 20px;
+}
+.appoiment-date p span{
+    font-size: 16px;
+    font-weight: 600;
+}
+.appoiment-text p{
+    background-color: #2ea6cd;
+    color: #fff;
+    display: inline-block;
+    font-weight: 600;
+    padding: 4px 20px 5px 20px;
+    border-radius: 6px;
+    margin-bottom: 0;
+}
+.appoiment-date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.doctor-modal .modal-body{
+    padding: 25px 0px 16px 0px;
+}
+.doctor-modal .row.detail-1{
+    padding: 0px 16px;
+}
+.doctor-modal .modal-body hr{
+    margin: 20px 0px;
+}
+.detail-set-pad{
+    padding: 0px 20px;
+}
+.set-doctor p{
+    margin-bottom: 0;
+}
+.set-doctor p:nth-child(1){
+    font-size: 17px;
+    font-weight: 600;
+    color: #000;
+}
+.set-doctor p:nth-child(2){
+    color: #01bbae;
+    font-weight: 600;
+    font-size: 17px;
+}
+.location-detail p{
+    margin-bottom: 0;    
+}
+.location-detail p:nth-child(1){
+    color: #8a8888;
+    font-weight: 600;
+}
+.location-detail p:nth-child(2){
+    color: #000;
+    font-weight: 600;
+    font-size: 18px;
+}
+.detail-set-pad .media-body{
+    padding-left: 30px;
+}
+.detail-set-pad .location-detail{
+    padding-top: 15px;
+}
+.reanson-for p{
+    font-size: 17px;
+    font-weight: 600;
+}
+.reanson-for textarea{
+    color: #8a8888;
+    padding: 15px 30px;
+    font-weight: 600;
+}
+.text-bottom{
+    margin-top: 18px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #01bbae;
+}
+.reanson-for{
+    margin-top: 30px;
+}
+.side-btn{
+    position: absolute;
+    top: 15%;
+    right: 0;
+    transform: translateY(-50%);
+}
+.Hospital_appointment .side-btn label{
+    display: none;
+}
+.round-set .blue{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+.round-set .blue label,.has-pretty-child .labelright.blue label{
+    display: none;
+}
+.Hospital_appointment .appoiment-date .appoiment-text{
+    margin-bottom:-65px ;
+} 
+.Hospital_appointment .text-title{
+    margin: 17px 0px 5px 0px;
+}
+.doctor_exists_main.active{
+    border: 3px solid #1fbaad;
+    border-radius: 6px;
+}
+.information-doctor.active{
+    border: 3px solid #1fbaad !important;
+    border-radius: 6px;
+}
+#scheduleAppointmentModel #patient_image{
+    width: 80px;
+    border-radius: 100%;
+}
+#scheduleAppointmentModel #doctor_picture{
+    width: 50px;
+    border-radius: 100%;
+}
+
+@media (min-width: 1200px) and (max-width: 1328px){
+	.row.Hospital_appointment .form-group.search-box .btn.btn-sm{
+		padding: 10px 7px;
+	    font-size: 11px;
+	}
+}
+
+@media (min-width: 1200px) and (max-width: 1400px){
+	.Hospital_appointment .no_data{
+		max-height: initial;
+	}
+}
+
+
+.information-doctor .languages-list p:nth-child(2){
+	/* word-break: break-all; */
+}
+.availability_listing_list{
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+}
+.availability_listing{
+    padding-left: 5px;
+    /* display: flex; */
+}
+.availability_listing li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+}
+
+/* @media (min-width: 1200px) and (max-width: 1400px){
+	.appointment-padding{
+        padding: 95px 45px 35px 45px !important;
+    }
+} */
+@media (min-width: 1200px) and (max-width: 1329px){
+    .docter-set p:nth-child(2) {
+        font-size: 14px;
+    }
+    .docter-set p:nth-child(1) {
+        font-size: 19px;
+    }
+    .not-availabal p {
+        font-size: 13px;
+    }
+    .docter-set .media img{
+        width: 90px;
+        height: 90px;
+        border-radius: 100%;
+        background-size: cover;
+    }
+}
+.availability_listing li{ display:none;}
+.appointment_loadmore .loadMore{ display:none;}
+.disabled-time{
+    border-color: #F93434;
+    background-color: #FFF3F3;
+    color: #742222;
+}
+.availability_listing_list > ul > li > input:checked + p {
+    border-color: #329A93;
+    background-color: #329A93;
+    color: #fff;
+}
+
+@media (min-width: 1200px) and (max-width: 1440px){
+	.Hospital_appointment #appointment_details p {
+	    font-size: 15px;
+	    /*appoiment 7*/
+	}
+	.Hospital_appointment .form-control-static {
+	    font-size: 14px;
+		/*appoiment 24*/
+	}
+	.bd-content {
+	    padding: 80px 45px 35px 125px;
+	    /*style 953*/
+	}
+	.Hospital_appointment .text-title {
+	    margin: 0px 0px 3px 0px;
+	    /*appoiment 387*/
+	}
+	.Hospital_appointment .widget_profile {
+	    padding: 8px 19px;
+	    /*appoiment 72*/
+	}
+}

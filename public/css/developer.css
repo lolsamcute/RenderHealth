@@ -1,0 +1,44 @@
+.tele_appoint th.date_disable, .health_diary_date th.date_disable, .datepicker th.date_disable  {
+    visibility: visible !important;
+    pointer-events: none;
+    cursor: default !important;
+}
+
+.tele_appoint th.date_disable i, .health_diary_date th.date_disable i, .datepicker th.date_disable i {
+    opacity: 0.5;    
+}
+
+.health_diary_date .datepicker table tr td.today, .health_diary_date .datepicker table tr td.today:hover, .health_diary_date .datepicker table tr td.today.disabled, .health_diary_date .datepicker table tr td.today.disabled:hover
+{
+	background:#01BBAE;
+	color: #fff;
+}
+.cursor_pointer {
+    cursor: pointer;
+}
+.notify_text h3 span {
+    font-weight: 600;
+    color: #353638;
+}
+
+.custom_widthauto {
+    max-width: -moz-fit-content !important;
+    max-width: fit-content !important;
+    width: auto !important;   
+}
+
+.genmodal_custom.custom_widthauto .modal-body {
+    padding: 25px 47px 25px;
+}
+
+.attachment a,
+.attachment a:hover,
+.attachment a:focus {
+    color: #01bbae;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.table-responsive{
+    max-height:500px;
+}
