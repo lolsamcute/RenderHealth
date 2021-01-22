@@ -1,10 +1,4 @@
-DESIGNS
 
-https://docs.google.com/spreadsheets/d/1r7FOL1kxEbPF2An2ctQJBvXOYcB0OSLxPDwJZH8fvKk/edit#gid=0
-
-https://projects.invisionapp.com/d/main#/projects/prototypes/14786970
-userName - sweety.s@iapptechnologies.com
-Pwd - welcome101
 
 
 DOCTOR PORTAL:-
@@ -24,48 +18,3 @@ ADMIN PANEL:-
 https://render.iapplabz.co.in/admin/login
 jeo123@gmail.com
 admin123
-
-
-IPAD DESIGNS
-https://marvelapp.com/17b88f4g/screen/44556030
-
-WEB DESIGNS
-https://marvelapp.com/3157975/screen/44557258
-
-MEDICAL RECORDS
-https://marvelapp.com/6686f9b/screen/51053542
-
-DOCTOR PORTAL TO ADD MEDICINES:
-https://marvelapp.com/6686f9b/screen/51053539
-
-
-FTP
-192.168.1.241
-Username :- projects 
-password:- welcome@1234
-user sftpd protocol
-
-
-
-Email :- jsingh@iapptechnologies.com
-Pas- welcomeiapp3
-User name - inder243
-
-
-SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8
-
-ctu-chd@nic.in
-
-https://github.com/Teddy22/RenderHealthService
-https://github.com/Teddy22/RenderHealthClients
-
-
-Google Sheet
-https://docs.google.com/spreadsheets/d/1myeSPjVU9OWjvHYvsJVkZX0ng4EN1mzWZ4ylNv6lKeM/edit#gid=50346872
-
-/******Live Url******/
-
-https://render.iapplabz.co.in/admin/all_doctors
-
-UI
-https://projects.invisionapp.com/share/HAMQI9YNCPQ#/screens/311422963
