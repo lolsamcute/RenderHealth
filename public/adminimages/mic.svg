@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>mic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Doctor---Search-Patient---3-Medical-Record" transform="translate(-55.000000, -351.000000)" fill="#023532">
+            <g id="Group-7" transform="translate(48.000000, 231.000000)">
+                <g id="language" transform="translate(7.000000, 116.000000)">
+                    <g id="mic" transform="translate(0.000000, 4.000000)">
+                        <path d="M6,10.1052632 C7.45714286,10.1052632 8.57142857,9.01052632 8.57142857,7.57894737 L8.57142857,2.52631579 C8.57142857,1.09473684 7.45714286,0 6,0 C4.54285714,0 3.42857143,1.09473684 3.42857143,2.52631579 L3.42857143,7.57894737 C3.42857143,9.01052632 4.54285714,10.1052632 6,10.1052632 L6,10.1052632 Z M10.5428571,7.57894737 C10.5428571,10.1052632 8.4,11.8736842 6,11.8736842 C3.6,11.8736842 1.45714286,10.1052632 1.45714286,7.57894737 L0,7.57894737 C0,10.4421053 2.31428571,12.8 5.14285714,13.2210526 L5.14285714,16 L6.85714286,16 L6.85714286,13.2210526 C9.68571429,12.8 12,10.4421053 12,7.57894737 L10.5428571,7.57894737 L10.5428571,7.57894737 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

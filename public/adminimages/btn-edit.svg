@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Doctor---Search-Patient---3-Medical-Record" transform="translate(-73.000000, -494.000000)" fill="#49AEF4" fill-rule="nonzero">
+            <g id="Group-11" transform="translate(48.000000, 483.000000)">
+                <path d="M40.7151172,15.0813532 L39.8759604,15.92051 L36.1378986,12.1824481 L36.9770553,11.3432914 C37.4347772,10.8855695 38.12136,10.8855695 38.5790818,11.3432914 L40.7151172,13.4793267 C41.096552,13.9370486 41.096552,14.6236314 40.7151172,15.0813532 Z M25.3051479,22.8626248 C25.076287,23.0914858 25,23.3966337 25,23.7017816 L25,26.2192518 C25,26.4481127 25.076287,26.6006867 25.2288609,26.7532606 C25.3814349,26.9058346 25.5340088,26.9821216 25.7628698,26.9821216 L28.28034,26.9821216 C28.5854879,26.9821216 28.8906358,26.8295476 29.1194967,26.6769737 L39.3419516,16.4545188 L35.6038897,12.716457 L25.3051479,22.8626248 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
