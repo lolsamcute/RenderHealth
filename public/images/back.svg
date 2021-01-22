@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="11px" viewBox="0 0 15 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-pointing-to-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-Desktop_Teleconsultation-Immediate-step-1" transform="translate(-135.000000, -24.000000)" fill="#737373" fill-rule="nonzero">
+            <g id="Group-22" transform="translate(135.000000, 20.000000)">
+                <g id="arrow-pointing-to-right" transform="translate(7.500000, 9.500000) scale(-1, 1) translate(-7.500000, -9.500000) translate(0.000000, 4.000000)">
+                    <path d="M14.7956999,4.9744297 L10.3319539,0.21766651 C10.0596096,-0.0725555035 9.61792194,-0.0725555035 9.34557764,0.21766651 C9.07317754,0.507947984 9.07317754,0.978510782 9.34557764,1.26879226 L12.6186752,4.75674832 L0.697460315,4.75674832 C0.31229483,4.75674832 0,5.08954336 0,5.49999257 C0,5.91038231 0.31229483,6.24323682 0.697460315,6.24323682 L12.6186752,6.24323682 L9.34568923,9.73119288 C9.07328913,10.0214744 9.07328913,10.4920372 9.34568923,10.7823186 C9.48183348,10.9273404 9.66038332,11 9.83887737,11 C10.0173714,11 10.1958655,10.9273404 10.3320655,10.7823186 L14.7956999,6.02555544 C15.0681,5.73527397 15.0681,5.26471117 14.7956999,4.9744297 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

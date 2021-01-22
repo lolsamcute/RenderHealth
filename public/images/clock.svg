@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Doctor---My-Schedule---3-Detail-Hospital-Appoint" transform="translate(-845.000000, -223.000000)" fill="#01BBAE" fill-rule="nonzero">
+            <g id="content" transform="translate(262.000000, 167.000000)">
+                <g id="Group-6" transform="translate(45.000000, 40.000000)">
+                    <g id="Group-4" transform="translate(260.000000, 9.000000)">
+                        <g id="date" transform="translate(278.000000, 5.000000)">
+                            <path d="M25,5 L25,9 L0,9 L0,5 C0,4.4 0.4,4 1,4 L6,4 L6,2.5 C6,2.2 6.2,2 6.5,2 C6.8,2 7,2.2 7,2.5 L7,4 L18,4 L18,2.5 C18,2.2 18.2,2 18.5,2 C18.8,2 19,2.2 19,2.5 L19,4 L24,4 C24.6,4 25,4.4 25,5 Z M8,17.5 C8,15 10,13 12.5,13 C15,13 17,15 17,17.5 C17,20 15,22 12.5,22 C10,22 8,20 8,17.5 Z M12,18 C12,18.2 12.0997003,18.3 12.1994007,18.4 L14.1934074,19.9 C14.2931077,20 14.392808,20 14.4925084,20 C14.691909,20 14.7916094,19.9 14.8913097,19.8 C15.0907104,19.6 14.99101,19.3 14.7916094,19.1 L12.9970033,17.8 L12.9970033,15.5 C12.9970033,15.2 12.7976027,15 12.4985017,15 C12.1994007,15 12,15.2 12,15.5 L12,18 L12,18 Z M0,10 L25,10 L25,25 C25,25.6 24.6,26 24,26 L1,26 C0.4,26 0,25.6 0,25 L0,10 Z M7,17.5 C7,20.5 9.5,23 12.5,23 C15.5,23 18,20.5 18,17.5 C18,14.5 15.5,12 12.5,12 C9.5,12 7,14.5 7,17.5 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

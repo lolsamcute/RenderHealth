@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>thin-0407_credit_card</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.201185826">
+        <g id="00_Desktop_5.1_Billings-Details-Paybill" transform="translate(-620.000000, -473.000000)" stroke="#000000" stroke-width="1.2">
+            <g id="modal" transform="translate(353.000000, 153.000000)">
+                <g id="cvv-code" transform="translate(41.000000, 283.000000)">
+                    <g id="thin-0407_credit_card" transform="translate(226.000000, 37.500000)">
+                        <g id="ic_cc" transform="translate(0.676364, 0.120000)">
+                            <path d="M14.7814884,13.7309091 L21.4309832,13.7309091" id="Shape"></path>
+                            <path d="M25.8518966,16.6443883 C25.8518966,17.4455045 25.2029189,18.0944822 24.4019126,18.0944822 L1.92891811,18.0944822 C1.12802164,18.0944822 0.479043956,17.4455045 0.479043956,16.6443883 L0.479043956,2.00097792 C0.479043956,1.2001913 1.12802164,0.550884073 1.92891811,0.550884073 L24.4020224,0.550884073 C25.2029189,0.550884073 25.8520064,1.20030115 25.8520064,2.00097792 L25.8520064,16.6443883 L25.8518966,16.6443883 Z" id="Shape"></path>
+                            <polygon id="Rectangle-path" points="0.478934109 3.86816186 25.8518966 3.86816186 25.8518966 8.22107974 0.478934109 8.22107974"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

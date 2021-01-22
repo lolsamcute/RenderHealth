@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00_Desktop_4.2_Create-Diary" transform="translate(-1108.000000, -519.000000)">
+            <g id="4.-Attach-Images" transform="translate(880.000000, 443.000000)">
+                <g id="Group-2" transform="translate(0.000000, 32.000000)">
+                    <g id="image-3" transform="translate(177.000000, 44.000000)">
+                        <g id="close" transform="translate(51.000000, 0.000000)">
+                            <circle id="Oval" fill="#FF4848" cx="8" cy="8" r="8"></circle>
+                            <g id="ic_close_black_24px-(1)" transform="translate(5.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                <polygon id="Shape" points="6 0.604285714 5.39571429 0 3 2.39571429 0.604285714 0 0 0.604285714 2.39571429 3 0 5.39571429 0.604285714 6 3 3.60428571 5.39571429 6 6 5.39571429 3.60428571 3"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

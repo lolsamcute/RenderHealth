@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_register</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00_Desktop_6.3_Register" transform="translate(-603.000000, -144.000000)">
+            <g id="ic_register" transform="translate(603.000000, 144.000000)">
+                <circle id="Oval-3" fill="#01BBAE" opacity="0.900000036" cx="20" cy="20" r="20"></circle>
+                <path d="M31.5,8 L9.5,8 C8.7,8 8,8.7 8,9.5 L8,26.5 C8,27.3 8.7,28 9.5,28 L31.5,28 C32.3,28 33,27.3 33,26.5 L33,9.5 C33,8.7 32.3,8 31.5,8 Z M32,23 L9,23 L9,9.5 C9,9.2 9.2,9 9.5,9 L31.5,9 C31.8,9 32,9.2 32,9.5 L32,23 Z M26,31.5 C26,31.8 25.8,32 25.5,32 L24,32 L17,32 L15.5,32 C15.2,32 15,31.8 15,31.5 C15,31.2 15.2,31 15.5,31 L17.2,31 L17.6,29 L23.4,29 L23.8,31 L25.5,31 C25.8,31 26,31.2 26,31.5 Z M24,15.5 L24,17.5 C24,17.8 23.8,18 23.5,18 L22,18 L22,19.5 C22,19.8 21.8,20 21.5,20 L19.5,20 C19.2,20 19,19.8 19,19.5 L19,18 L17.5,18 C17.2,18 17,17.8 17,17.5 L17,15.5 C17,15.2 17.2,15 17.5,15 L19,15 L19,13.5 C19,13.2 19.2,13 19.5,13 L21.5,13 C21.8,13 22,13.2 22,13.5 L22,15 L23.5,15 C23.8,15 24,15.2 24,15.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

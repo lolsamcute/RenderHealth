@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_delete_black_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00_Desktop_4_Health-Diary-Details" transform="translate(-414.000000, -654.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="modal" transform="translate(353.000000, 143.000000)">
+                <g id="Btn-delete" transform="translate(41.000000, 497.000000)">
+                    <g id="ic_delete_black_24px" transform="translate(20.000000, 14.000000)">
+                        <path d="M0.857142857,14.2222222 C0.857142857,15.2 1.62857143,16 2.57142857,16 L9.42857143,16 C10.3714286,16 11.1428571,15.2 11.1428571,14.2222222 L11.1428571,3.55555556 L0.857142857,3.55555556 L0.857142857,14.2222222 Z M12,0.888888889 L9,0.888888889 L8.14285714,0 L3.85714286,0 L3,0.888888889 L0,0.888888889 L0,2.66666667 L12,2.66666667 L12,0.888888889 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

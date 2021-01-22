@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="25px" viewBox="0 0 21 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/diary" transform="translate(-7.000000, -5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="icons/homepage">
+                <path d="M11,28 L25,28 L25,28.5 C25,29.3 24.3,30 23.5,30 L8.5,30 C7.7,30 7,29.3 7,28.5 L7,9.5 C7,8.7 7.7,8 8.5,8 L9,8 L9,26 C9,27.1 9.9,28 11,28 Z M22.5,11 L27.7,11 L22,5.3 L22,10.5 C22,10.8 22.2,11 22.5,11 Z M28,12 L28,25.5 C28,26.3 27.3,27 26.5,27 L11.5,27 C10.7,27 10,26.3 10,25.5 L10,6.5 C10,5.7 10.7,5 11.5,5 L21,5 L21,10.5 C21,11.3 21.7,12 22.5,12 L28,12 Z M23,17.5 C23,16.1 21.9,15 20.5,15 C19.7,15 19,15.4 18.5,16 C18,15.4 17.3,15 16.5,15 C15.1,15 14,16.1 14,17.5 C14,19.3 18,23 18.5,23 L18.5,23 L18.5,23 C19,23 23,19.3 23,17.5 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

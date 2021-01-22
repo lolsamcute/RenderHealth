@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="31px" viewBox="0 0 19 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_blood Pressure</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Doctor---Search-Patient---3-Medical-Record" transform="translate(-367.000000, -341.000000)" fill="#01BBAE" fill-rule="nonzero">
+            <g id="Group-12" transform="translate(321.000000, 158.000000)">
+                <g id="Group-6" transform="translate(38.000000, 90.000000)">
+                    <g id="blood-pressure" transform="translate(8.000000, 89.000000)">
+                        <g id="ic_blood-Pressure" transform="translate(0.000000, 4.000000)">
+                            <path d="M9.1,0 C9.1,0 0,13.104 0,21.2333333 C0,26.208 4.12533333,30.3333333 9.1,30.3333333 C14.0746667,30.3333333 18.2,26.208 18.2,21.2333333 C18.2,13.104 9.1,0 9.1,0 Z M3.03333333,18.2 C3.39733333,18.2 3.64,18.4426667 3.64,18.8066667 C3.64,19.1706667 3.39733333,19.4133333 3.03333333,19.4133333 C2.66933333,19.4133333 2.42666667,19.1706667 2.42666667,18.8066667 C2.42666667,18.4426667 2.66933333,18.2 3.03333333,18.2 Z M8.49333333,27.9066667 C5.096,27.9066667 2.42666667,25.2373333 2.42666667,21.84 C2.42666667,21.476 2.66933333,21.2333333 3.03333333,21.2333333 C3.39733333,21.2333333 3.64,21.476 3.64,21.84 C3.64,24.5093333 5.824,26.6933333 8.49333333,26.6933333 C8.85733333,26.6933333 9.1,26.936 9.1,27.3 C9.1,27.664 8.85733333,27.9066667 8.49333333,27.9066667 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

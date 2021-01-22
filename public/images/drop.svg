@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>mic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00_Desktop_8_Profile" transform="translate(-492.000000, -344.000000)" fill="#023532" fill-rule="nonzero">
+            <g id="content" transform="translate(216.000000, 154.000000)">
+                <g id="Blood" transform="translate(276.000000, 190.000000)">
+                    <g id="mic">
+                        <path d="M6,0 C6,0 0,8.64 0,14 C0,17.28 2.72,20 6,20 C9.28,20 12,17.28 12,14 C12,8.64 6,0 6,0 Z M2.5,12 C2.8,12 3,12.2 3,12.5 C3,12.8 2.8,13 2.5,13 C2.2,13 2,12.8 2,12.5 C2,12.2 2.2,12 2.5,12 Z M5.63636364,18 C3.6,18 2,16.4 2,14.3636364 C2,14.1454545 2.14545455,14 2.36363636,14 C2.58181818,14 2.72727273,14.1454545 2.72727273,14.3636364 C2.72727273,15.9636364 4.03636364,17.2727273 5.63636364,17.2727273 C5.85454545,17.2727273 6,17.4181818 6,17.6363636 C6,17.8545455 5.85454545,18 5.63636364,18 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
